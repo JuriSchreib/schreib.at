@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/bujuhu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://schreib.at
+  * I am bujuhu (https://keybase.io/bujuhu) on keybase.
+  * I have a public key ASDO5SyqWwf8Nzkc6mss7TSNy__eXeQQrkaPcSXlpJ5hMAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120c983d5e5bbd92b631ef29f3b19d2b85d69c0de6befc73d88015c6ce321bb98610a",
+            "host": "keybase.io",
+            "kid": "0120cee52caa5b07fc37391cea6b2ced348dcbffde5de410ae468f7125e5a49e61300a",
+            "uid": "193267cd9c471a7b2254ee629f79a400",
+            "username": "bujuhu"
+        },
+        "service": {
+            "hostname": "schreib.at",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1487505120,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1487505093,
+        "hash": "efcfa7aa42730b7882f233f3ae5e03138f69863069f91bc0c62e5db92c517059a8255c3a5cf3d32e404633633c09958f384d0056da17f56dc58c76ba4ea0c29d",
+        "seqno": 905273
+    },
+    "prev": "56760ecad744c4bf98460897784c71fe263f706229207acacd46f7cf4a918c32",
+    "seqno": 27,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzuUsqlsH/Dc5HOprLO00jcv/3l3kEK5Gj3El5aSeYTAKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzk4M2Q1ZTViYmQ5MmI2MzFlZjI5ZjNiMTlkMmI4NWQ2OWMwZGU2YmVmYzczZDg4MDE1YzZjZTMyMWJiOTg2MTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwY2VlNTJjYWE1YjA3ZmMzNzM5MWNlYTZiMmNlZDM0OGRjYmZmZGU1ZGU0MTBhZTQ2OGY3MTI1ZTVhNDllNjEzMDBhIiwidWlkIjoiMTkzMjY3Y2Q5YzQ3MWE3YjIyNTRlZTYyOWY3OWE0MDAiLCJ1c2VybmFtZSI6ImJ1anVodSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic2NocmVpYi5hdCIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg3NTA1MTIwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODc1MDUwOTMsImhhc2giOiJlZmNmYTdhYTQyNzMwYjc4ODJmMjMzZjNhZTVlMDMxMzhmNjk4NjMwNjlmOTFiYzBjNjJlNWRiOTJjNTE3MDU5YTgyNTVjM2E1Y2YzZDMyZTQwNDYzMzYzM2MwOTk1OGYzODRkMDA1NmRhMTdmNTZkYzU4Yzc2YmE0ZWEwYzI5ZCIsInNlcW5vIjo5MDUyNzN9LCJwcmV2IjoiNTY3NjBlY2FkNzQ0YzRiZjk4NDYwODk3Nzg0YzcxZmUyNjNmNzA2MjI5MjA3YWNhY2Q0NmY3Y2Y0YTkxOGMzMiIsInNlcW5vIjoyNywidGFnIjoic2lnbmF0dXJlIn2jc2lnxED7Mg7kM+gWFTLnc8Ol1nGqUrGKAV/0FAydxPDpvPCEfSwCMcRME5fBzo+yhBY1n6Xe0Tnb9+pNnTWlIDGM4YsOqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQglGx9jOZ4Fl1XftQMDPxti8LfPXdarbRaFhKCKRBV8ImjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bujuhu
+
+==================================================================
