@@ -1,0 +1,67 @@
+body{
+  margin: 0;
+}
+.jss-slide {
+  position: relative;
+
+  width: 100%;
+  height: 100vh;
+  background-color: #21141b;
+}
+.jss-footer {
+  position: absolute;
+  padding: 20px;
+
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.jss-u-center {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.jss-text, .jss-title, .jss-subtitle {
+  color: #f7891f;
+  font-family: 'Roboto Slab', serif;
+}
+.jss-title, .jss-subtitle {
+  text-align: center;
+  text-shadow: 0.07em 0.07em  #e3300c;
+  letter-spacing: .3rem;
+}
+.jss-title {
+
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.jss-subtitle {
+  color: #f7891f;
+  font-size: 2rem;
+}
+.jss-href {
+
+  text-decoration: none;
+  margin: 0.5rem;
+
+}
+
+.jss-href:hover {
+  text-shadow: 0.07em 0.07em #9e214c;
+}
+
+.jss-u-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media(min-width: 650px) {
+  .jss-u-flex {
+    flex-direction: row;
+  }
+}
